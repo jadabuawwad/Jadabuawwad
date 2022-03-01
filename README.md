@@ -1,16 +1,26 @@
-### Hi there 👋
 
-<!--
-**Jadabuawwad/jadabuawwad** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+<br>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<h1 align="center">
+
+&#x270d; My GitHub Stats
+
+<div align="center">
+
+<a   href="https://github.com/Jadabuawwad/Jadabuawwad">
+  <img  style="margin-left:10px; margin-top:10px;" src="https://github-readme-stats.vercel.app/api?username=Jadabuawwad&show_icons=true&theme=github_dark" alt="Martin's GitHub Stats" />
+</a>
+
+<a href="https://github.com/Jadabuawwad/Jadabuawwad">
+  <img style="margin-left:10px; margin-top:10px;"  src="https://github-readme-stats.vercel.app/api/wakatime?username=Jadabuawwad&theme=github_dark" />
+</a>
+
+
+![](https://komarev.com/ghpvc/?username=Jadabuawwad&color=red&style=flat-square&label=PROFILE+VIEWS)
+
+</div>
+
+<br/>
+
+![Example](https://raw.githubusercontent.com/matfantinel/matfantinel/master/waves.svg)
